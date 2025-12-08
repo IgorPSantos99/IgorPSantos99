@@ -79,7 +79,7 @@ Currently, I’m advancing my expertise while contributing to large-scale indust
 ## 📫 Let’s Collaborate!  
 - **GitHub**: Exploring? You’re already here!  
 - **LinkedIn**: [Let's connect!](https://www.linkedin.com/in/[igorsantos99]/)  
-- **Email**: [igorpereira1999sp@gmail.com](mailto:igorpereira1999sp@gmail.com)  
+- **Email**: [igorpereira1999sp@hotmail.com](mailto:igorpereira1999sp@hotmail.com)  
 
 *Open to innovative projects, research partnerships, and technical discussions!*  
 
