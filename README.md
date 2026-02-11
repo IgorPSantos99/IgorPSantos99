@@ -1,85 +1,196 @@
-# 👋 Hi, I’m **Igor Santos**  
-**`Data Science Practitioner | Python Developer | Mathematical Modeler | Mechanical Engineer`**  
+# 👋 Hi, I'm **Igor Santos**
+
+### Data Scientist & AI Engineer | Transforming Industrial Data into Strategic Decisions
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorsantos99/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorpereira1999sp@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/IgorPSantos99?style=for-the-badge&logo=github)](https://github.com/IgorPSantos99?tab=followers)
 
 ---
 
-## 🧑💻 About Me  
-I’m a passionate **Data Scientist** and **Python Developer** with 2+ years of hands-on experience in mathematical modeling, statistical analysis, and machine learning. My work revolves around transforming complex problems into optimized solutions using tools like **linear programming**, **NumPy**, **SciPy**,**TensorFlow**,, and other ML / Optimizations techniques.  
+## 🚀 About Me
 
-Currently, I’m advancing my expertise while contributing to large-scale industrial projects at **Yara Fertilizantes** (a global leader in agricultural and chemical solutions) as a Project Technical via **Timenow Engenharia**. My role bridges engineering excellence with data-driven decision-making.  
+I'm a **Data Scientist** and **Mechanical Engineer** with **3+ years of experience** building AI-powered solutions for the industrial sector. I specialize in combining **machine learning**, **generative AI**, and **mathematical optimization** to solve complex reliability and asset management challenges in the **oil & gas industry**.
 
----
+Currently at **Yara Brasil** (via Timenow Engenharia), I develop systems that optimize **R$200M+ CAPEX portfolios**, predict equipment failures with **90% accuracy**, and automate decision-making processes that save millions annually.
 
-## 🚀 Professional Highlights  
+### 💡 What I Do
 
-### 🔬 **Innovation at Yara Fertilizantes**  
-- **Case Study**: Developed the **EFM (Efficient Frontier Method)**, a mathematical framework for optimizing project portfolios across multi-dimensional criteria:  
-  - **BCR (Benefit-Cost Ratio)**  
-  - **Cost Efficiency**  
-  - **Process Safety**  
-  - **Operational Reliability**  
-  - **Production Quality**  
-  This method enables data-driven prioritization of engineering projects, balancing technical and economic constraints.  
-
-- **Data Integration**: Streamline ETL/ELT workflows using **Python**, **PowerQuery**, and **Excel** to unify disparate data sources, enhancing cross-departmental analytics capabilities.  
-
-### 📊 **Core Expertise**  
-- **Mathematical Modeling**: Linear/non-linear optimization, operations research, and algorithm design.  
-- **Machine Learning**: End-to-end pipeline development (EDA, feature engineering, model deployment).  
-- **Statistical Mastery**: Hypothesis testing, probability theory, Bayesian inference, and A/B testing.  
-- **Engineering Collaboration**: Coordinating technical projects to align with business objectives and safety standards.  
+🤖 **Generative AI & LLMs**: Building multi-agent systems with RAG (LangChain, LangGraph) for industrial knowledge management  
+📊 **Predictive Analytics**: Developing ML models for predictive maintenance and failure forecasting  
+⚙️ **Mathematical Optimization**: Applying portfolio theory and linear programming to CAPEX allocation  
+🔄 **Data Engineering**: Creating ETL pipelines integrating SAP PM, Meridium, and financial systems  
+📈 **Business Intelligence**: Designing executive dashboards that drive strategic decisions
 
 ---
 
-## Languages & Text Editors
+## 🛠️ Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="50" height="50"/>                            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="50" height="50"/>
+### Languages & Core Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-## Frameworks & Libs
+### AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50"/>
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 🛠️ Technical Toolkit  
-
-**Optimization & Engineering**  
-`PuLP` `Gurobi` `Pyomo` `CVXOPT`  
-
-**Tools & Platforms**  
-`Git` `Jupyter` `Power BI` `Excel` `PowerQuery` `Docker`  
-
----
-
-## 📚 Education  
-- **B.E. in Mechanical Engineering**  
-  _FEI University_ | Completed in 2023  
-  - Focus: Optimization in Machine Elements and FEM (Finite Method Element).  
+### MLOps & Engineering
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 🌱 Current Goals  
-- Expanding my research in **multi-objective optimization** for industrial applications.  
-- Exploring **MLOps** practices to operationalize machine learning models.  
-- Contributing to open-source projects in the data science community.  
+## 🔥 Featured Projects
+
+### 🤖 [Industrial Reliability Agent](https://github.com/IgorPSantos99) *(In Development)*
+**Multi-Agent AI System for Asset Management**
+
+A sophisticated RAG-powered system using LangChain and LangGraph that orchestrates 5 specialized AI agents to revolutionize industrial asset management.
+
+**Tech Stack**: `LangChain` `LangGraph` `FAISS` `Llama 3` `Docker` `FastAPI` `SAP PM`
+
+**Key Features**:
+- 🔍 Semantic search across 500+ technical manuals
+- 🎯 90% accuracy in 14-day failure prediction using Random Forest & LSTM
+- ⚡ Reduced information retrieval time from 2h to 15min
+- 🛡️ Human-in-the-loop validation for safety-critical decisions
+
+**Impact**: Projected R$1.2M/year savings through predictive maintenance optimization
 
 ---
-       
 
-## 📫 Let’s Collaborate!  
-- **GitHub**: Exploring? You’re already here!  
-- **LinkedIn**: [Let's connect!](https://www.linkedin.com/in/[igorsantos99]/)  
-- **Email**: [igorpereira1999sp@hotmail.com](mailto:igorpereira1999sp@hotmail.com)  
+### 📊 [Efficient Frontier for CAPEX Allocation](https://github.com/IgorPSantos99)
+**Portfolio Optimization Using Modern Portfolio Theory**
 
-*Open to innovative projects, research partnerships, and technical discussions!*  
+Mathematical optimization engine applying Markowitz's Efficient Frontier to prioritize industrial projects under budget, risk, and resource constraints.
 
+**Tech Stack**: `Python` `PuLP` `Pandas` `Plotly` `Streamlit` `NumPy`
+
+**Key Features**:
+- ⚖️ Multi-objective optimization balancing risk, cost, and ROI
+- 📈 Scenario simulations for R$200M+ annual CAPEX planning
+- 🎯 Integration with AACE CVP standards for project maturity assessment
+- 📊 Interactive dashboards reducing executive decision time by 60%
+
+**Methodology**: Linear programming with constraints on budget, BCR, project maturity, and execution hours
+
+---
+
+### 🏭 [Industrial Safety Prediction](https://github.com/IgorPSantos99/Industrial_Safety_Analysis)
+**ML Pipeline for Workplace Accident Prevention**
+
+End-to-end machine learning system identifying leading indicators of workplace accidents using ensemble methods and statistical analysis.
+
+**Tech Stack**: `Python` `Scikit-Learn` `XGBoost` `Pandas` `Seaborn` `Jupyter`
+
+**Key Features**:
+- 📊 Advanced EDA with Pearson correlation and chi-squared testing
+- 🔄 SMOTE/class weighting for imbalanced data handling
+- 🎯 Ensemble models (Random Forest, XGBoost, Naive Bayes) with GridSearchCV tuning
+- 📈 Temporal analysis detecting seasonality patterns
+- 🚀 Deployable model artifact with pickle serialization
+
+**Dataset**: Industrial Safety and Health Analytics Database
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorPSantos99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPSantos99&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 **Timenow Engenharia (Yara Brasil)** | *Dec 2024 - Present*
+**Technical Project Analyst | Data & Optimization**
+- Developed optimization systems managing multi-million dollar CAPEX portfolio
+- Built automated ETL pipelines reducing analysis time by 70%
+- Applied Monte Carlo simulations and Weibull analysis for risk-based maintenance
+
+### 🏢 **Qualidados Engenharia (Yara Industrial Solutions)** | *Jul 2023 - Dec 2024*
+**Project Analyst | PMO**
+- Managed R$100M+ turnarounds with 300+ concurrent activities
+- Implemented risk assessment frameworks strengthening governance
+- Created automated dashboards improving executive visibility by 50%
+
+### 🏢 **Logicalis Brasil** | *Feb 2021 - Feb 2022*
+**Commercial Engineering Intern**
+- Developed Python automation scripts reducing processing time by 40%
+- Conducted financial modeling and profitability analysis
+- First professional exposure to data analysis and programming
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Mechanical Engineering**  
+*Centro Universitário FEI* | Graduated Dec 2023  
+Focus: Optimization, Finite Element Analysis, Machine Design
+
+---
+
+## 🌱 Current Focus
+
+🔬 **Exploring**: Agentic AI architectures for industrial applications  
+📚 **Learning**: Advanced MLOps practices and model deployment strategies  
+🚀 **Building**: Open-source tools for industrial data analytics  
+🤝 **Contributing**: Data science community projects and research
+
+---
+
+## 📊 Key Achievements
+
+✅ **70%** reduction in manual analysis time through automation  
+✅ **90%** accuracy in equipment failure prediction (14-day horizon)  
+✅ **60%** faster executive decision-making via interactive dashboards  
+✅ **500+** technical documents indexed in RAG system  
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to discussing:
+- 🤖 **Generative AI** applications in industrial settings
+- 📊 **Machine Learning** for predictive maintenance
+- ⚙️ **Mathematical Optimization** and operations research
+- 🏭 **Industrial Analytics** and asset management
+- 🚀 **MLOps** best practices and deployment strategies
+
+💬 Feel free to reach out for collaborations, technical discussions, or project opportunities!
+
+📧 **Email**: igorpereira1999sp@gmail.com  
+💼 **LinkedIn**: [linkedin.com/in/igorsantos99](https://www.linkedin.com/in/igorsantos99/)  
+🌐 **Languages**: Portuguese (Native) • English (C1) • German (B1)
+
+---
+
+<div align="center">
+  
+### 🌟 Open to innovative projects, research partnerships, and technical collaborations!
+
+![Profile Views](https://komarev.com/ghpvc/?username=IgorPSantos99&color=blueviolet&style=for-the-badge)
+
+</div>
