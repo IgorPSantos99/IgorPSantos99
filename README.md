@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorsantos99/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorpereira1999sp@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/IgorPSantos99?style=for-the-badge&logo=github)](https://github.com/IgorPSantos99?tab=followers)
 
 ---
 
@@ -121,63 +120,6 @@ End-to-end machine learning system identifying leading indicators of workplace a
 </div>
 
 ---
-
-## 💼 Professional Experience
-
-### 🏢 **Timenow Engenharia (Yara Brasil)** | *Dec 2024 - Present*
-**Technical Project Analyst | Data & Optimization**
-- Developed optimization systems managing multi-million dollar CAPEX portfolio
-- Built automated ETL pipelines reducing analysis time by 70%
-- Applied Monte Carlo simulations and Weibull analysis for risk-based maintenance
-
-### 🏢 **Qualidados Engenharia (Yara Industrial Solutions)** | *Jul 2023 - Dec 2024*
-**Project Analyst | PMO**
-- Managed R$100M+ turnarounds with 300+ concurrent activities
-- Implemented risk assessment frameworks strengthening governance
-- Created automated dashboards improving executive visibility by 50%
-
-### 🏢 **Logicalis Brasil** | *Feb 2021 - Feb 2022*
-**Commercial Engineering Intern**
-- Developed Python automation scripts reducing processing time by 40%
-- Conducted financial modeling and profitability analysis
-- First professional exposure to data analysis and programming
-
----
-
-## 🎓 Education
-
-**B.Sc. in Mechanical Engineering**  
-*Centro Universitário FEI* | Graduated Dec 2023  
-Focus: Optimization, Finite Element Analysis, Machine Design
-
----
-
-## 🌱 Current Focus
-
-🔬 **Exploring**: Agentic AI architectures for industrial applications  
-📚 **Learning**: Advanced MLOps practices and model deployment strategies  
-🚀 **Building**: Open-source tools for industrial data analytics  
-🤝 **Contributing**: Data science community projects and research
-
----
-
-## 📊 Key Achievements
-
-✅ **70%** reduction in manual analysis time through automation  
-✅ **90%** accuracy in equipment failure prediction (14-day horizon)  
-✅ **60%** faster executive decision-making via interactive dashboards  
-✅ **500+** technical documents indexed in RAG system  
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to discussing:
-- 🤖 **Generative AI** applications in industrial settings
-- 📊 **Machine Learning** for predictive maintenance
-- ⚙️ **Mathematical Optimization** and operations research
-- 🏭 **Industrial Analytics** and asset management
-- 🚀 **MLOps** best practices and deployment strategies
 
 💬 Feel free to reach out for collaborations, technical discussions, or project opportunities!
 
